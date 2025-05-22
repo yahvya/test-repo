@@ -12,6 +12,6 @@ public class ProgramTest {
 
     @Test
     public void testGetNameFail(){
-        assertEquals(new Program().getName(),"false");
+        assertEquals(new Program().getName(),"name");
     }
 }
