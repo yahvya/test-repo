@@ -6,6 +6,6 @@ public class Program {
     }
 
     public String newCode(){
-        return "codepusceh";
+        return "codepush";
     }
 }
